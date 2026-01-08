@@ -20,9 +20,6 @@ ENV/
 .ipynb_checkpoints/
 
 # Models and data (if large)
-models/*.pkl
-models/*.png
-models/*.csv
 !models/.gitkeep
 
 # OS
