@@ -84,10 +84,6 @@ This will:
 streamlit run app.py
 ```
 
-Or use convenience scripts:
-- **Linux/Mac:** `./run_app.sh`
-- **Windows:** `run_app.bat`
-
 The app opens at `http://localhost:8501`
 
 ---
